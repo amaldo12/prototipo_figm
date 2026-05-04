@@ -1,12 +1,11 @@
-# Proyecto Figma
 
-Este proyecto contiene el diseño exportado desde Figma.
-https://www.figma.com/make/nOiMQYJgkcz8puJpljaPgP/SaludYa-app-prototype?t=k6gyqmGVcOGG0PS0-20&fullscreen=1
+  # SaludYa app prototype
 
-## Autor
-- andres felipe maldonado , abinelec vila remolina 
+  This is a code bundle for SaludYa app prototype. The original project is available at https://www.figma.com/design/nOiMQYJgkcz8puJpljaPgP/SaludYa-app-prototype.
 
+  ## Running the code
 
+  Run `npm i` to install the dependencies.
 
-## Descripción
-Diseño de interfaz realizado para trabajo universitario.
+  Run `npm run dev` to start the development server.
+  
